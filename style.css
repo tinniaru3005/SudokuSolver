@@ -74,6 +74,7 @@ button {
     #answerBoard {
         margin-left: 4%;
         margin-right: 4%;
+        margin-bottom: 4%;
         float: none;
         padding: 4pt;
         border-radius: 2pt;
