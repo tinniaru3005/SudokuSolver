@@ -49,7 +49,7 @@ button {
     margin-top: 5%;
 }
 
-#solve_button {
+#solve_button, #clear_button {
     background-color: rgba(41, 45, 51, 0.696);
     color: antiquewhite;
     padding: 20px;
