@@ -13,6 +13,7 @@ h2 {
     float: left;
     margin-left: 10%;
     margin-top: 10%;
+    margin-bottom: 10%;
     background-color: rgba(246, 247, 248, 0.537);
     padding: 10pt;
     border-radius: 8pt;
@@ -22,12 +23,13 @@ h2 {
     margin-right: 10%;
     float: right;
     margin-top: 10%;
+    margin-bottom: 10%;
     background-color: rgba(246, 247, 248, 0.599);
     padding: 10pt;
     border-radius: 8pt;
 }
 
-p{
+p {
     font-size: 20px;
 }
 
@@ -49,7 +51,8 @@ button {
     margin-top: 5%;
 }
 
-#solve_button, #clear_button {
+#solve_button,
+#clear_button {
     background-color: rgba(41, 45, 51, 0.696);
     color: antiquewhite;
     padding: 20px;
@@ -83,4 +86,16 @@ button {
     .answerRow {
         font-size: 14px;
     }
+
+}
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: #fcfcfc;
+    background: #000;
+    word-spacing: 2px;
+
 }
