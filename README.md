@@ -14,3 +14,6 @@ Start solving sudoku puzzles here and now!
 ## 🎬 Video
 https://user-images.githubusercontent.com/62856848/194641798-9f36d8ae-8a52-4819-9701-8647ad9af33a.mp4
 
+
+
+this is amazing one :)
